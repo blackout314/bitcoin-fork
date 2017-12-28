@@ -1,5 +1,5 @@
 # bitcoin-fork
-all fork of bitcoin cryptocurrency
+all forks of bitcoin cryptocurrency
 
 * [Bitcoin Cash](https://www.bitcoincash.org/): Forked at Block 478559[1], 1 August 2017, For each 1 BTC you get 1 BCH
 * [Bitcoin Gold](https://bitcoingold.org/): Forked at Block 491407[2], 24 October 2017, For each 1 BTC you get 1 BTG
