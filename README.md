@@ -5,7 +5,7 @@ all forks of bitcoin cryptocurrency
   * twitter
   * reddit
   * bitcointalk
-  * telegram
+  * telegram [telegram-ita](http://t.me/bitcoinitalia/325262)
 * [Bitcoin Gold](https://bitcoingold.org/): Forked at Block 491407[2], 24 October 2017, For each 1 BTC you get 1 BTG
 * [Bitcoin Diamond](http://btcd.io/): Forked at Block 495866[3], 24 November 2017, For each 1 BTC you get 10 BCD
   * [twitter](https://twitter.com/BitcoinDiamond_)
