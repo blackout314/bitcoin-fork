@@ -1,8 +1,8 @@
 # bitcoin-fork
 all fork of bitcoin cryptocurrency
 
-* Bitcoin Cash: Forked at Block 478559[1], 1 August 2017, For each 1 BTC you get 1 BCH
-* Bitcoin Gold: Forked at Block 491407[2], 24 October 2017, For each 1 BTC you get 1 BTG
+* [Bitcoin Cash](https://www.bitcoincash.org/): Forked at Block 478559[1], 1 August 2017, For each 1 BTC you get 1 BCH
+* [Bitcoin Gold](https://bitcoingold.org/): Forked at Block 491407[2], 24 October 2017, For each 1 BTC you get 1 BTG
 * [Bitcoin Diamond](http://btcd.io/): Forked at Block 495866[3], 24 November 2017, For each 1 BTC you get 10 BCD
 * UnitedBitcoin: Forked at Block 498777[4], 12 December 2017, For each 1 BTC you get 1 UB
 * Bitcoin Hot: Forked at Block 498848[5], 12 December 2017, For each 1 BTC you get 100 BTH
@@ -18,4 +18,4 @@ all fork of bitcoin cryptocurrency
 * Bitcoin Smart: Forking at Block 505050, 21 January 2018, For each 1 BTC you get 1 BCS
 * Bitcoin Interest: Forking at Block 505083, 22 January 2018, For each 1 BTC you get 1 BCI
 * Bitcoin LITE: Forking on 30th January 2018, For each 1 BTC you get 1 BTCL
-* Bitcoin ATOM: Forking TBA in January, For each 1 BTC you get 1 BCA
+* [Bitcoin ATOM](https://bitcoinatom.io/): Forking TBA in January, For each 1 BTC you get 1 BCA
