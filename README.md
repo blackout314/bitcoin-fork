@@ -2,16 +2,16 @@
 all forks of bitcoin cryptocurrency
 
 * [Bitcoin Cash](https://www.bitcoincash.org/): Forked at Block 478559[1], 1 August 2017, For each 1 BTC you get 1 BCH
-** twitter
-** reddit
-** bitcointalk
-** telegram
+  * twitter
+  * reddit
+  * bitcointalk
+  * telegram
 * [Bitcoin Gold](https://bitcoingold.org/): Forked at Block 491407[2], 24 October 2017, For each 1 BTC you get 1 BTG
 * [Bitcoin Diamond](http://btcd.io/): Forked at Block 495866[3], 24 November 2017, For each 1 BTC you get 10 BCD
-** [twitter](https://twitter.com/BitcoinDiamond_)
-** reddit
-** bitcointalk
-** telegram [telegram-ita](https://t.me/BitcoinDiamondItalia)
+  * [twitter](https://twitter.com/BitcoinDiamond_)
+  * reddit
+  * bitcointalk
+  * telegram [telegram-ita](https://t.me/BitcoinDiamondItalia)
 * UnitedBitcoin: Forked at Block 498777[4], 12 December 2017, For each 1 BTC you get 1 UB
 * Bitcoin Hot: Forked at Block 498848[5], 12 December 2017, For each 1 BTC you get 100 BTH
 * Super Bitcoin: Forked at Block 498888, 12 December 2017, For each 1 BTC you get 1 SBTC
