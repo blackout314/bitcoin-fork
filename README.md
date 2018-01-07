@@ -7,15 +7,20 @@ all forks of bitcoin cryptocurrency
   * bitcointalk
   * telegram [telegram-ita](http://t.me/bitcoinitalia/325262)
 * [Bitcoin Gold](https://bitcoingold.org/): Forked at Block 491407, 24 October 2017, For each 1 BTC you get 1 BTG
+  * [github](https://github.com/BTCGPU/BTCGPU)
 * [Bitcoin Diamond](http://btcd.io/): Forked at Block 495866, 24 November 2017, For each 1 BTC you get 10 BCD
+  * [github](https://github.com/eveybcd/BitcoinDiamond)
   * [twitter](https://twitter.com/BitcoinDiamond_)
   * reddit
   * bitcointalk
   * telegram [telegram-ita](https://t.me/BitcoinDiamondItalia)
 * UnitedBitcoin: Forked at Block 498777, 12 December 2017, For each 1 BTC you get 1 UB
 * Bitcoin Hot: Forked at Block 498848, 12 December 2017, For each 1 BTC you get 100 BTH
-* Super Bitcoin: Forked at Block 498888, 12 December 2017, For each 1 BTC you get 1 SBTC
-* BitcoinX: Forked at Block 498888, 12 December 2017, For each 1 BTC you get 10,000 BCX
+* [Super Bitcoin](http://supersmartbitcoin.com/): Forked at Block 498888, 12 December 2017, For each 1 BTC you get 1 SBTC
+  * [github](https://github.com/superbitcoin/SuperBitcoin)
+  * twitter
+* [BitcoinX](https://www.bitcore.cc/): Forked at Block 498888, 12 December 2017, For each 1 BTC you get 10,000 BCX
+  * [github](https://github.com/LIMXTEC/BitCore/releases)
 * Lightning Bitcoin: Forked at Block 499999, 12 December 2017, For each 1 BTC you get 1 LBTC
 * Bitcoin Top: Forked at Block 501118, 26 December 2017, For each 1 BTC you get 1 BTT
 * Bitcoin God: God' is not a typo, Forked at Block 501225, forked on 27th December 2017 For each 1 BTC you get 1 GOD
@@ -31,3 +36,8 @@ all forks of bitcoin cryptocurrency
   * reddit
   * bitcointalk
   * telegram [telegram-ita](https://t.me/bitcoinatomitalia)
+
+
+
+## paper wallets
+* [segwit](https://github.com/coinables/segwitaddress)
