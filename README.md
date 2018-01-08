@@ -32,9 +32,10 @@ all forks of bitcoin cryptocurrency
 * Bitcoin Interest: Forking at Block 505083, 22 January 2018, For each 1 BTC you get 1 BCI
 * Bitcoin LITE: Forking on 30th January 2018, For each 1 BTC you get 1 BTCL
 * [Bitcoin ATOM](https://bitcoinatom.io/): Forking TBA in January, For each 1 BTC you get 1 BCA
-  * twitter
-  * reddit
-  * bitcointalk
+  * [github](https://github.com/bitcoin-atom)
+  * [twitter](https://twitter.com/atombitcoin)
+  * [reddit](https://www.reddit.com/user/BitcoinAtom)
+  * [bitcointalk](https://bitcointalk.org/index.php?topic=2515675.0)
   * telegram [telegram-ita](https://t.me/bitcoinatomitalia)
 
 
