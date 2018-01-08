@@ -36,7 +36,7 @@ all forks of bitcoin cryptocurrency
   * [twitter](https://twitter.com/atombitcoin)
   * [reddit](https://www.reddit.com/user/BitcoinAtom)
   * [bitcointalk](https://bitcointalk.org/index.php?topic=2515675.0)
-  * telegram [telegram-ita](https://t.me/bitcoinatomitalia)
+  * [telegram](https://t.me/bitcoinatom) [telegram-ita](https://t.me/bitcoinatomitalia)
 
 
 
