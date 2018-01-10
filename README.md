@@ -6,6 +6,7 @@ all forks of bitcoin cryptocurrency
   * reddit
   * bitcointalk
   * telegram [telegram-ita](http://t.me/bitcoinitalia/325262)
+* |-- [Bitcoin Candy](http://bitcoincandy.one/index_EN.html): Fork of BCH
 * BTG [Bitcoin Gold](https://bitcoingold.org/): Forked at Block 491407, 24 October 2017, For each 1 BTC you get 1 BTG
   * [github](https://github.com/BTCGPU/BTCGPU)
 * BCD [Bitcoin Diamond](http://btcd.io/): Forked at Block 495866, 24 November 2017, For each 1 BTC you get 10 BCD
