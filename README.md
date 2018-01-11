@@ -1,6 +1,28 @@
 # bitcoin-fork
 all forks of bitcoin cryptocurrency
 
+Fork | Block | Ratio
+--- | --- | ---
+BCH | 478559 | 1:1
+BTG | 491407 | 1:1
+BCD | 495866 | 1:10
+UB | 498777 | 1:1
+BTH | 498848 | 1:100
+SBTC | 498888 | 1:1
+BTX | 498888 | 1:10000
+LBTC | 499999 | 1:1
+BTT | 501118 | 1:1
+GOD | 501225 | 1:1
+BIFI | 501225 | 1:1000
+BCP | 501407 | 1:1
+B2X | 501451 | 1:1
+BPA | 501888 | 1:1
+BCS | 505050 | 1:1
+BCI | 505083 | 1:1
+BTCL | ? | 1:1
+BCA | ? | 1:1
+
+
 * BCH - [Bitcoin Cash](https://www.bitcoincash.org/): Forked at Block 478559, 1 August 2017, For each 1 BTC you get 1 BCH
   * twitter
   * reddit
