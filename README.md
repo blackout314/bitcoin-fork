@@ -21,6 +21,7 @@ BCS | 505050 | 1:1
 BCI | 505083 | 1:1
 BTCL | ? | 1:1
 BCA | ? | 1:1
+BTCP | ? | 1:1
 
 
 * BCH - [Bitcoin Cash](https://www.bitcoincash.org/): Forked at Block 478559, 1 August 2017, For each 1 BTC you get 1 BCH
@@ -60,6 +61,7 @@ BCA | ? | 1:1
   * [reddit](https://www.reddit.com/user/BitcoinAtom)
   * [bitcointalk](https://bitcointalk.org/index.php?topic=2515675.0)
   * [telegram](https://t.me/bitcoinatom) [telegram-ita](https://t.me/bitcoinatomitalia)
+* BTCP - [Bitcoin Private](https://btcprivate.org/) Fork of ZCL & Bitcoin
 
 
 
