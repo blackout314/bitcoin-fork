@@ -20,7 +20,7 @@ BPA | 501888 | 1:1
 BCS | 505050 | 1:1
 BCI | 505083 | 1:1
 BTCL | ? | 1:1
-BCA | ? | 1:1
+BCA | 505888 | 1:1
 BTCP | ? | 1:1
 
 
@@ -55,7 +55,7 @@ BTCP | ? | 1:1
 * BCS - Bitcoin Smart: Forking at Block 505050, 21 January 2018, For each 1 BTC you get 1 BCS
 * BCI - Bitcoin Interest: Forking at Block 505083, 22 January 2018, For each 1 BTC you get 1 BCI
 * BTCL - Bitcoin LITE: Forking on 30th January 2018, For each 1 BTC you get 1 BTCL
-* BCA - [Bitcoin ATOM](https://bitcoinatom.io/): Forking TBA in January, For each 1 BTC you get 1 BCA
+* BCA - [Bitcoin ATOM](https://bitcoinatom.io/): Forking at Block 505888 in January, For each 1 BTC you get 1 BCA
   * [github](https://github.com/bitcoin-atom)
   * [twitter](https://twitter.com/atombitcoin)
   * [reddit](https://www.reddit.com/user/BitcoinAtom)
